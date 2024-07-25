@@ -2,23 +2,15 @@ package BusinessLogic;
 
 public class AnswerFactory
 {
-    public static Answer createAnswer(AnswerType type, String text)
+    public static Answer createCorrect(String text)
     {
-        switch (type)
-        {
-            case CORRECTANSWER ->
-            {
-                return new CorrectAnswer(text);
-            }
-            case WRONGANSWER ->
-            {
-                return new WrongAnswer(text);
-            }
-            default ->
-            {
-                return null;
-            }
-        }
-
+        return new CorrectAnswer(text);
     }
+
+    public static Answer createWrong(String text)
+    {
+        return new WrongAnswer(text);
+    }
+
+
 }

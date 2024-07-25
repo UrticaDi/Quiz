@@ -1,0 +1,50 @@
+1;Wie heißt der natürliche Satellit der Erde?;Mond*;Sonne;Sputnik;Venus
+2;Was ist die Hauptstadt Spaniens?;Barcelona;Palma;Madrid*;Rom
+3;Wie viele Buchstaben hat das englische Alphabet?;33;26*;14;30
+4;Was heißt die Abkürzung Covis?;Chaos in der virtuellen Sandkiste;Chronische Obsession für verrückte Internetvideos;Computergestützte Vertriebsinformationssysteme*;Champions of very intelligent software
+5; Welche Farbe hat der Himmel normalerweise?;Rot;Blau*;Grün;Gelb
+6; Welches Tier ist für seine Fähigkeit bekannt, in die Zukunft zu schauen?;Löwe;Hund;Adler;Delfin*
+7; Wer schrieb "Romeo und Julia"?;Friedrich Schiller;Johann Wolfgang von Goethe;William Shakespeare*;Homer
+8; Was ist die chemische Formel von Wasser?;H2O*;CO2;O2;H2
+9; Wie viele Kontinente gibt es auf der Erde?;5;6;7*;8
+10; Welcher Planet ist der nächste zur Sonne?;Mars;Venus;Merkur*;Jupiter
+11; Welches Land ist für das Kolosseum bekannt?;Griechenland;Frankreich;Italien*;Spanien
+12; Was ist die Hauptzutat in Guacamole?;Tomaten;Paprika;Avocado*;Karotte
+13; Wer war der erste Präsident der Vereinigten Staaten?;Thomas Jefferson;John Adams;George Washington*;Abraham Lincoln
+14; Was ist die Hauptstadt von Australien?;Sydney;Melbourne;Canberra*;Perth
+15; Wie viele Sekunden hat eine Minute?;100;60*;30;90
+16; Welcher Vogel kann nicht fliegen?;Adler;Pinguin*;Papagei;Falk
+17; Welcher Ozean liegt zwischen Afrika und Australien?;Atlantischer Ozean;Pazifischer Ozean;Indischer Ozean*;Arktischer Ozean
+18; Wie viele Planeten hat unser Sonnensystem?;7;8*;9;10
+19; Was ist die Hauptstadt von Kanada?;Toronto;Vancouver;Ottawa*;Montreal
+20; Wer malte die Mona Lisa?;Vincent van Gogh;Claude Monet;Leonardo da Vinci*;Pablo Picasso
+21; Welches Metall hat das chemische Symbol Au?;Silber;Kupfer;Gold*;Eisen
+22; Welches Land ist für Sushi bekannt?;China;Thailand;Japan*;Vietnam
+23; In welchem Jahr begann der Erste Weltkrieg?;1900;1914*;1939;1945
+24; Was ist die Hauptstadt von Frankreich?;Berlin;Madrid;Rom;Paris*
+25; Wie viele Zähne hat ein Erwachsener normalerweise?;20;28;32*;24
+26; Was ist die kleinste Einheit des Lebens?;Atom;Molekül;Zelle*;Organ
+27; Wie viele Beine hat eine Spinne?;6;8*;10;12
+28; Welches Element hat das chemische Symbol "O"?;Gold;Silber;Kohlenstoff;Sauerstoff*
+29; Was ist die Hauptstadt von Italien?;Mailand;Venedig;Rom*;Florenz
+30; Wie viele Staaten hat die USA?;48;49;50*;51
+31; Welcher Fluss fließt durch Ägypten?;Amazonas;Nil*;Donau;Mississippi
+32; Was ist die Währung von Japan?;Yuan;Dollar;Yen*;Won
+33; Wie viele Planeten sind nach römischen Göttern benannt?;4;6;8*;10
+34; Welcher Kontinent ist am meisten von Wüsten bedeckt?;Afrika*;Asien;Australien;Südamerika
+35; Was ist das größte Land der Welt nach Fläche?;Kanada;China;USA;Russland*
+36; Welches Tier ist das größte Säugetier der Welt?;Elefant;Blauwal*;Nashorn;Giraffe
+37; Wie viele Tage hat ein Schaltjahr?;364;365;366*;367
+38; Welcher Planet ist bekannt für seine Ringe?;Jupiter;Mars;Saturn*;Neptun
+39; Was ist das Symbol für Eisen?;Fe*;I;Ir;In
+40; Wer entdeckte die Relativitätstheorie?;Isaac Newton;Galileo Galilei;Nikola Tesla;Albert Einstein*
+41; Wie viele Farben hat ein Regenbogen?;5;6;7*;8
+42; Welcher Fluss ist der längste der Welt?;Amazonas;Nil*;Yangtse;Mississippi
+43; Was ist die Hauptstadt von Brasilien?;Rio de Janeiro;São Paulo;Brasília*;Salvador
+44; Wie viele Spieler sind in einer Fußballmannschaft auf dem Feld?;9;10;11*;12
+45; Welcher Kontinent ist der kleinste?;Europa;Antarktis;Australien*;Südamerika
+46; Was ist die Hauptstadt von Deutschland?;München;Frankfurt;Hamburg;Berlin*
+47; Welche Farbe hat Chlorophyll?;Rot;Blau;Grün*;Gelb
+48; Was ist die Hauptstadt von Russland?;St. Petersburg;Nowosibirsk;Moskau*;Kasan
+49; Welche Zahl kommt nach 99?;98;100*;101;102
+50; Welches Organ pumpt Blut durch den Körper?;Leber;Niere;Lunge;Herz*
