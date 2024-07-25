@@ -24,7 +24,7 @@ public class QuizView
         _gameController.startRound();
         System.out.println("------------------------------------------");
         System.out.println();
-        System.out.println("Runde " + _gameController.getRoundCounter());
+        System.out.println("Runde " + _gameController.getRounds());
         _points = 0;
         }
 
@@ -77,4 +77,15 @@ public class QuizView
         _gameController.addPoints(_points);
         System.out.println("Du hast " + _points + " Punkte.");
         }
+
+        public void showTotalPoints()
+        {
+            System.out.println("Deine Gesamtpunktzahl ist: " + _gameController.getTotalPoints());
+        }
+
+        public void showAveragePoints()
+        {
+            System.out.println("Du hast bisher " + _gameController.getPercentage() + " % der Fragen richtig beantwortet");
+        }
+
     }

@@ -12,13 +12,11 @@ public class MainMenu
     private final int _EXIT = 3;
     private Scanner _scanner = new Scanner(System.in);
     private QuizView _quizView;
-    private TotalPointsView _totalPointsView;
 
 
     public MainMenu()
         {
         _quizView = new QuizView(_scanner);
-        _totalPointsView = new TotalPointsView();
         }
 
     public static void lines()
@@ -43,8 +41,8 @@ public class MainMenu
                     _quizView.endRound();
                     continue;
                 case _RESULTS:
-                    _totalPointsView.showTotalPoints();
-                    _totalPointsView.showAveragePoints();
+                    _quizView.showTotalPoints();
+                    _quizView.showAveragePoints();
                     continue;
                 case _EXIT:
                     exit = true;
